@@ -1,6 +1,6 @@
 # maps
 
-Scripts that produce maps using [GMT 5](http://gmt.soest.hawaii.edu/).
+Scripts that produce maps using [GMT 5](https://gmt.soest.hawaii.edu/).
 
 ### Instructions
 
